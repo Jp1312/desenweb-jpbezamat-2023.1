@@ -1,16 +1,17 @@
-#header2 {
-    font-size: 100px;
-}
 
 p{
     color:red;
     font-size: 100px;
 }
-#header1{
-        color:whitesmoke;
+h1{
+        color: red;
         font-size: 100px;
     
 }
 body{
     background-color: black;
+}
+h2{
+    color:chartreuse;
+    font-size: 50 px;
 }
